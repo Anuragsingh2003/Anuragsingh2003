@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Singh Rajawat</h1>
-<h3 align="center">A Passionate Software Engineer From India</h3>
+<h3 align="center">A Passionate  AI and Data Science Enthusiast From India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.technoloader.com/blog/wp-content/uploads/2020/07/Hire-a-Blockchain-Developer.gif">
 
 
